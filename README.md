@@ -1,21 +1,2 @@
-# vue-quill
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+vue-Quill: 웹에서 텍스트 편집을 할 수 있는 WYSIWYG(What You See Is What You Get) 에디터
+사용한 목적: 웹 화면에서 이메일 내용의 HTML을 제작하기 위해 사용
